@@ -87,6 +87,6 @@
 # Задание 8. Тестирование внешних параметров через 2IP
 При переходе на веб-сервис 2ip.ru получены глобальные параметры соединения:
 
-<img width="809" height="361" alt="Screenshot_34" src="https://github.com/user-attachments/assets/ff58421f-61fd-4c98-9a1c-169c1a39b94e" />
+
 
 ![Screenshot_35](https://i.postimg.cc/2yFYj866/Screenshot-35.png)
