@@ -9,7 +9,7 @@
 * Встроенные сетевые утилиты ОС Windows (`ipconfig`, `hostname`, `ping`, `tracert`, `arp`).
 * Специализированное ПО для анализа беспроводных сетей: `Wireless Network Watcher`, `WifiInfoView`.
 * Веб-сервис тестирования сетевых параметров `2ip.ru`.
-
+![](https://github.com/user-attachments/assets/bc80a8a3-e890-4225-bd44-aa38196a109c)
 ---
 
 ##  Ответы на контрольные вопросы для самопроверки
