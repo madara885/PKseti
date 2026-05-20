@@ -56,4 +56,5 @@
 ---
 ### Задание 1. Определение локального IP-адреса компьютера
 В интерфейсе командной строки выполнены команды `ipconfig` и `ipconfig /all`.
-!images/Screenshot_4.png
+!<img width="712" height="531" alt="image" src="https://github.com/user-attachments/assets/b9aa3ea6-4624-4b9a-a88c-d9bd8f39974f" />
+
