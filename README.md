@@ -1,5 +1,5 @@
 ```markdown
-<img width="779" height="330" alt="Screenshot_35" src="images/Screenshot_35.png" />
+<img width="779" height="330" alt="Screenshot_35" src="images/Screenshot_35.PNG" />
 
 # Лабораторная работа № 2 «Изучение программных средств тестирования и определения параметров настройки в компьютерных сетях»
 
