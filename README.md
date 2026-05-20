@@ -57,7 +57,7 @@
 ### Задание 1. Определение локального IP-адреса компьютера
 В интерфейсе командной строки выполнены команды `ipconfig` и `ipconfig /all`.
 <img width="712" height="531" alt="image" src="https://github.com/user-attachments/assets/bc80a8a3-e890-4225-bd44-aa38196a109c" />
-![](images/Screenshot_19.png)
+![](.images/Screenshot_19.png)
 ###Задание 2. Определение имени узла компьютера
 Выполнена команда hostname для получения сетевого имени локальной рабочей станции.
 
