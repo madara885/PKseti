@@ -273,6 +273,5 @@
 
 
 
-
-<img src="images/Screenshot_35.png" alt="Таблица" />
+<img src="images/Screenshot_27.png" alt="Таблица" />
 
