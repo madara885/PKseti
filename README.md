@@ -275,10 +275,5 @@
 
 
 
-![Screenshot_35](https://i.postimg.cc/2yFYj866/Screenshot-35.png)
-
-
-
-
-<img width="779" height="330" alt="Screenshot_35" src="https://github.com/user-attachments/assets/e0c57e86-c18a-48d7-9f40-720f8ecbfb4c" />
+![Таблица](images/Screenshot_35.png)
 
