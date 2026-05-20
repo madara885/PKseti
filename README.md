@@ -274,6 +274,5 @@
 
 
 
-
-![Таблица](images/Screenshot_35.png)
+<img src="images/Screenshot_35.png" alt="Таблица" />
 
