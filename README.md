@@ -71,6 +71,7 @@
 Выполнена команда tracert для анализа цепочки маршрутизаторов на пути к удаленным серверам.
 
 Трассировка маршрута до узла YANDEX.RU:
+<img width="779" height="330" alt="Screenshot_35" src="https://github.com/user-attachments/assets/71af0c24-afe0-412e-b1c8-bcf7a9229a00" />
 
 
 ###Задание 5. Анализ соответствия IP и MAC-адресов в локальной сети (ARP-таблица)
